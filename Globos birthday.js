@@ -32,6 +32,6 @@ document.writeln('document.getElementById("balloonC2' + pallonciniMV2[p] + '").s
 document.writeln('document.getElementById("balloonC2' + pallonciniMV2[p] + '").style.height="180px";');
 document.writeln('document.getElementById("balloonC2' + pallonciniMV2[p] + '").style.background="transparent";');
 document.writeln('document.getElementById("balloonC2' + pallonciniMV2[p] + '").style.border="none";');
-document.writeln('document.getElementById("balloonC2' + pallonciniMV2[p] + '").innerHTML= \'<a href="https://shaddaikawaii.blogspot.com/" target="_blank"><img title="&copy; shaddaikawaii.blogspot.com" src="https://1.bp.blogspot.com/-O4cRtKRsVi8/W-R96T6k3_I/AAAAAAAAZO4/ki03VNVIs_sWG7XXS6bExyJUT5d-uuErwCLcBGAs/s1600/globo1.png" style="width: 70px; height: 150px; border: none;" /></a>\';');
+document.writeln('document.getElementById("balloonC2' + pallonciniMV2[p] + '").innerHTML= \'<a href="https://shaddaikawaii.blogspot.com/" target="_blank"><img title="&copy; shaddaikawaii.blogspot.com" src="https://3.bp.blogspot.com/-fcvSXxJ0WPQ/W-T3y4y0TGI/AAAAAAAAZQo/of9Uv7h7HDAcqpNqzZvgJYFSz3ZWmcerQCLcBGAs/s1600/Globo%2Bfiesta.png" style="width: 70px; height: 150px; border: none;" /></a>\';');
 }
 document.writeln('</scr' + 'ipt>');
